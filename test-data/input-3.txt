@@ -1,0 +1,3 @@
+# Create a ship with fail first store but stocked second
+GT4500,0,1,10,0
+TORPEDO,SINGLE
