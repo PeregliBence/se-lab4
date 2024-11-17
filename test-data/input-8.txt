@@ -1,0 +1,2 @@
+# Create a ship with stocking 10 torpedo in each storage but use it with wrong command
+HIBA,10,0,10,0

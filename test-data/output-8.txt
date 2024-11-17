@@ -1,0 +1,1 @@
+Unknown command: 'HIBA'  # <- GT4500

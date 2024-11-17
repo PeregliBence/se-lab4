@@ -1,0 +1,4 @@
+# Create a ship with stocking 1 torpedo in each storage
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

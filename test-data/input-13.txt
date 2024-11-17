@@ -1,0 +1,4 @@
+# Create a ship with stocking 1 torpedo in each storage than use EXIT command
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
